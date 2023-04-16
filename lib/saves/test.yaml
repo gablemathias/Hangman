@@ -1,0 +1,24 @@
+--- !ruby/object:Hangman
+word: realtor
+hangman:
+- _
+- e
+- a
+- _
+- t
+- _
+- _
+words:
+- r
+- e
+- a
+- l
+- t
+- o
+- r
+guesses: 1
+wrong_words:
+- s
+- dsa
+- d
+- z

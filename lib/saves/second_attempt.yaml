@@ -1,0 +1,27 @@
+--- !ruby/object:Hangman
+word: apparently
+hangman:
+- a
+- _
+- _
+- a
+- _
+- _
+- _
+- _
+- _
+- _
+words:
+- a
+- p
+- p
+- a
+- r
+- e
+- n
+- t
+- l
+- y
+guesses: 6
+wrong_words:
+- v

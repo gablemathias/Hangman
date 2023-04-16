@@ -1,0 +1,23 @@
+--- !ruby/object:Hangman
+game: first_attempt
+word: situated
+hangman:
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+words:
+- s
+- i
+- t
+- u
+- a
+- t
+- e
+- d
+guesses: 8
+wrong_words: []

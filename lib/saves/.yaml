@@ -1,0 +1,18 @@
+--- !ruby/object:Hangman
+word: better
+hangman:
+- _
+- _
+- _
+- _
+- _
+- _
+words:
+- b
+- e
+- t
+- t
+- e
+- r
+guesses: 8
+wrong_words: []
